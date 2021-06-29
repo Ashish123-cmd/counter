@@ -1,0 +1,22 @@
+#counter{
+    margin: 100px;
+    text-align: center;
+    font-family: Verdana;
+    background: white;
+    color:violet;
+}
+#value{
+    margin:100px 550px;
+    font-size: x-large;
+
+}
+.btn decrease{
+    margin:"100px 400px";
+}
+.btn increase{
+    margin:"100px 450px";
+
+}
+.btn reset{
+   text-align: "center";
+}
